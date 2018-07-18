@@ -1,0 +1,24 @@
+{
+  "name": "erranda-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Dee",
+  "license": "MIT",
+  "engines": {
+    "node": "8.11.1"
+  },
+  "dependencies": {
+    "@google/maps": "^0.4.6",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "firebase": "^5.0.3",
+    "firebase-admin": "^5.12.1",
+    "google-distance": "^1.0.1",
+    "google-locations": "^0.2.0",
+    "node-geocoder": "^3.22.0",
+    "promise": "^8.0.1"
+  }
+}

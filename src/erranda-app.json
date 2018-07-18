@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "erranda-app",
+  "private_key_id": "4a7e7908abd23b7d1f662b1c72ca42e1d9476a16",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQCkcGLnE8VrdN\nqZ3rLna8iD7keXXQJmTsqbkYmNBBPmJq/xd3juoeMXj26ewMMfJcqp4slm2YSfqE\nk5nWuTm3LB8vzkKriRO48GJ33FE/6zkhBp3wIL6lmerIanTB8eMGMvX8kP4h53lj\nCNnwDNlHSIakWrKf3CTMygoGS8FCIHs8lzvWF6GovReu2FwthpoT41dn4eDmjnaO\nFeC2SCpwocPEngU/X3FzGWjmlsgTvzTzdulnD3BPKvNVW7g4tjtlwMBOu/GLOHZ1\nCjxM0y6ykyUv+FTL7SR70LzutdD7cPUIRo2Wt/AOrwqlJv31ENz9MtbfGXK5oUk+\naURqkuJvAgMBAAECggEAIuQuYEeGv09t480YSrrauCkDn08NptDhqV2XyRvMBb1A\nRWCuH2OtOU4j0wmNiMgRtV/6MlEyZVG2/ehBa2VaXDG+s0ZdISbW03Qhl6ewSs+Z\nH8Rb1cuwHdcQLPfJyENYx4/heLAapzYKwkTYRG3rPQzZZBRAFBaYZ25VOxQWgA/k\nEVfQR81FuHHWkjwhA/bCFDEsYcGpCJElID/dwHuH9Z08pd5j6LGZzj9iGsMtAni6\nk0J9ewOfPttduPkx1asTx+IpuU/Sp6u84qoKMiYzxsppruiIPXPGBxMjYmGZUP1l\ntDFGSv/4eJ+vNuGDYK1QUr84brDv2U4ZnU8ndOE/1QKBgQDwgFY6pQfkl+mA5KKO\nvdBCW/npnPahX0Pc2+caFHvlT9g7i3UHae8yYrVC0wgiy1MY2MqkMZ0TfvKbwOJF\nITjujSW6ZJQXYuPmS7VrRkS5xEXMQEK7neV9eFWWpKwtgdkVdHY1qZp4kx5aOpk5\nmKriS5oypbOqbEc387nPRcVzHQKBgQDdcmnXkYTPEHzIvDI1uuZm7awvJ2TOrfwb\nK+9m3TS689ThV8Bo4znxrCe5ce+0Ea787gjkV7F/Zowm5PsRIlhQ0W7uZzzHmFCL\nTr/mHGfRtaqUrmWsO2MFupbAAe4RxCFXo5UIsknKJqHG0gR8SIneyj+byIuhAUwS\nWoROKnsJ+wKBgHvO9ZUXJCsP8UtDaFPnb3DZ/JvBDE4ixsLKCfypEucH5Z8xubtp\nU5QysHGIRiXzWgHuiNNiHyTMM4TvFQzVf4N+8i80W/B2HjCORQTGlda0LeJqKnB/\nZobjDdyRRXnf4Ktk2v3hI/5ybiuxAvRdnYsFtIniN83CFB+/vqXvmygZAoGBAJ8q\nelrgFCZEgnxBkJE/+hTnJchqtzE6qqbZCGTV/+2UDmG9keWR1PcYtyC6fQDfaPgR\nG0EMqt6YVYorMS4akoHcVrBycaRAnTvT6Wg66IA55Baj1x5ZPQ5EE9CEUppgb1qv\nkBJFG3Z6F/NwxpqSBM6mbdvJ5FpgNU5H0yrfq7n7AoGAfUp+WxP6rnrvjUCW9kJ7\nw8z6MC81Wo6GrgWlDiejkdVE+a877KXaQUCU2Eu5htNqf6tNiiyKnXAZYZadHpV0\nmPgcOFrnReTPf5m1n94cTrnlWfuua+g6ZwQAuMrY2+LwD48q1C+IbMWCHpEcn6+y\nNpy/HLFLf100aoC69xKfQfw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-igvj9@erranda-app.iam.gserviceaccount.com",
+  "client_id": "104510644851870874550",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-igvj9%40erranda-app.iam.gserviceaccount.com"
+}
